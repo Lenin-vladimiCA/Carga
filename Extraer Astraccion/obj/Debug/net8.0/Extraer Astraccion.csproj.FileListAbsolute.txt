@@ -1,0 +1,21 @@
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\bin\Debug\net8.0\Extraer Astraccion.exe
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\bin\Debug\net8.0\Extraer Astraccion.deps.json
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\bin\Debug\net8.0\Extraer Astraccion.runtimeconfig.json
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\bin\Debug\net8.0\Extraer Astraccion.dll
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\bin\Debug\net8.0\Extraer Astraccion.pdb
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\bin\Debug\net8.0\Npgsql.dll
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\obj\Debug\net8.0\Extraer Astraccion.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\obj\Debug\net8.0\Extraer Astraccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\obj\Debug\net8.0\Extraer Astraccion.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\obj\Debug\net8.0\Extraer Astraccion.AssemblyInfo.cs
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\obj\Debug\net8.0\Extraer Astraccion.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\obj\Debug\net8.0\Extraer .FFEA168D.Up2Date
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\obj\Debug\net8.0\Extraer Astraccion.dll
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\obj\Debug\net8.0\refint\Extraer Astraccion.dll
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\obj\Debug\net8.0\Extraer Astraccion.pdb
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\obj\Debug\net8.0\Extraer Astraccion.genruntimeconfig.cache
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\obj\Debug\net8.0\ref\Extraer Astraccion.dll
+C:\Users\PC\source\repos\Extraer Astraccion\Extraer Astraccion\bin\Debug\net8.0\Extraer Astraccion.dll.config
